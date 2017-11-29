@@ -1,0 +1,9 @@
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\bin\Debug\Projeto4.exe
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\bin\Debug\Projeto4.pdb
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\bin\Debug\Projeto4.xml
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.Form1.resources
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.Resources.resources
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.vbproj.GenerateResource.Cache
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.exe
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.xml
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto4\Projeto4\obj\x86\Debug\Projeto4.pdb
