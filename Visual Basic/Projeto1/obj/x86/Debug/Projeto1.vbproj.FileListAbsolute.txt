@@ -1,0 +1,12 @@
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.Form1.resources
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.Resources.resources
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.vbproj.GenerateResource.Cache
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\bin\Debug\Projeto1.xml
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.exe
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.xml
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.pdb
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto1\obj\x86\Debug\Projeto1.exe
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto1\obj\x86\Debug\Projeto1.xml
+C:\Users\jpereiramouracardoso\Desktop\AI-master\Visual Basic\Projeto1\obj\x86\Debug\Projeto1.pdb

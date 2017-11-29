@@ -1,0 +1,9 @@
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.Form1.resources
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.Resources.resources
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.vbproj.GenerateResource.Cache
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\bin\Debug\Projeto2.xml
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.exe
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.xml
+C:\Users\TEMP.AERDLAL.000\Desktop\Projeto1\Projeto2\Projeto2\obj\x86\Debug\Projeto2.pdb
